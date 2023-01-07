@@ -46,9 +46,9 @@ I'm mechatronic engineer student passionate about robotics and electromovility. 
 <img align="left" alt="ROS" title="ROS" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Robot_Operating_System_logo.svg/1200px-Robot_Operating_System_logo.svg.png" />
 <img align="left" alt="Gazebo" title="Gazebo" width="30px" style="padding-right:10px;" src="https://seeklogo.com/images/G/gazebo-logo-51C46471CA-seeklogo.com.png" />
 
-<br />
+<br/>
 
-#
+
 #
 
 ### 📊 Stats
