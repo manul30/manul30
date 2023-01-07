@@ -9,7 +9,7 @@ I'm mechatronic engineer student passionate about robotics and electromovility. 
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.linkedin.com/in/manuelcarita/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="<a href="mailto:manuelocc30@gmail.com" alt="Gmail" title="Dev Pro Tips Discord Server"><img width="32px" src="https://www.freepnglogos.com/uploads/logo-gmail-png/logo-gmail-png-file-gmail-icon-svg-wikimedia-commons-0.png"/></a>
+  <a href="mailto:manuelocc30@gmail.com"><img width="32px" alt="Gmail" title="Gmail" src="https://www.freepnglogos.com/uploads/logo-gmail-png/logo-gmail-png-file-gmail-icon-svg-wikimedia-commons-0.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 
 </p>
