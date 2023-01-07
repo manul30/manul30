@@ -5,7 +5,7 @@
 I'm mechatronic engineer student passionate about robotics and electromovility. These are some repositories that I've been coding for some awesome projects or just some work that I found interesting. You can check up my [portfolio](https://manul30.github.io) website where I documented some stuff about my work.
 
 <p align="center">
-  <a href="https://www.youtube.com/channel/UC8KOSQA5d_BAxb9qYAPrTLA"><img width="32px" alt="Youtube" title="Youtube" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.iconfinder.com%2Ficons%2F771382%2Fchannel_circle_logo_media_social_video_youtube_icon&psig=AOvVaw3r-U5ezw-FrXXP7Xb9GXcU&ust=1673136804791000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCNDx0bmWtPwCFQAAAAAdAAAAABAX"/></a>
+  <a href="https://www.youtube.com/channel/UC8KOSQA5d_BAxb9qYAPrTLA"><img width="32px" alt="Youtube" title="Youtube" src="https://cdn4.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-youtube-circle-512.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://twitter.com/DenverCoder1"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/OXZM1L6.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
