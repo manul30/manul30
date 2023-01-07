@@ -47,6 +47,7 @@ I'm mechatronic engineer student passionate about robotics and electromovility. 
 <img align="left" alt="Gazebo" title="Gazebo" width="30px" style="padding-right:10px;" src="https://seeklogo.com/images/G/gazebo-logo-51C46471CA-seeklogo.com.png" />
 
 <p>
+  <br/>
 </p>
 
 <br/>
@@ -54,7 +55,7 @@ I'm mechatronic engineer student passionate about robotics and electromovility. 
 ---
 ### 📊 Stats
 
-![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=manul30&show_icons=true&theme=gruvbox)
+![Manuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=manul30&show_icons=true&theme=gruvbox)
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
 
