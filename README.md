@@ -1,5 +1,5 @@
 
-<p align="left"><img src="https://t3.ftcdn.net/jpg/04/10/03/92/360_F_410039266_L3d9dyCjPw8zPq7eUarFvvLp2PWVZAEk.jpg" style="max-width: 100%;
+<p align="left"><img src="https://t3.ftcdn.net/jpg/04/10/03/92/360_F_410039266_L3d9dyCjPw8zPq7eUarFvvLp2PWVZAEk.jpg" width="100%" style="max-width: 100%;
   height: auto;"/> </p>
 
 
