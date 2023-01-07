@@ -47,7 +47,7 @@ I'm mechatronic engineer student passionate about robotics and electromovility. 
 <img align="left" alt="Gazebo" title="Gazebo" width="30px" style="padding-right:10px;" src="https://seeklogo.com/images/G/gazebo-logo-51C46471CA-seeklogo.com.png" />
 
 <br/>
-
+<p></p>
 ---
 ### 📊 Stats
 
