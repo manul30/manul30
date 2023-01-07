@@ -45,12 +45,10 @@ I'm mechatronic engineer student passionate about robotics and electromovility. 
 <img align="left" alt="OpenCV" title="OpenCV" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original-wordmark.svg" />
 <img align="left" alt="ROS" title="ROS" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Robot_Operating_System_logo.svg/1200px-Robot_Operating_System_logo.svg.png" />
 <img align="left" alt="Gazebo" title="Gazebo" width="30px" style="padding-right:10px;" src="https://seeklogo.com/images/G/gazebo-logo-51C46471CA-seeklogo.com.png" />
----
+
 <br/>
 
-
-#
-
+---
 ### 📊 Stats
 
 ![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=manul30&show_icons=true&theme=gruvbox)
