@@ -1,5 +1,5 @@
 
-# Hi,<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif"> I'm Manuel Carita 🤖⚡🔌
+# Hi,<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width=30> I'm Manuel Carita 🤖⚡🔌
 
 **`Robotics Craftsman (Developer/Mechatronic Engineer/Maker)`**
 
